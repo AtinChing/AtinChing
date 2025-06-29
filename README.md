@@ -33,8 +33,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,react,nextjs,fastapi,mongodb,postgres,git,github,linux,vscode&perline=8" /><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikit-learn,opencv,huggingface,langchain&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,bootstrap,discord,react,fastapi,express,django,selenium,unity,mongodb,mysql,postgres,git,github,gitlab,linux,vscode,tensorflow,pytorch,opencv" />
 </p>
 
 ---
