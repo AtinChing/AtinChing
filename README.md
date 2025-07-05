@@ -20,7 +20,7 @@
 
 ### 🌱 I’m Currently Learning
 
-- 🧠 Building [Applied AI/ML Implementations](https://github.com/atin5551/Applied-AI-ML-Implementations) to master all of AI  
+- 🧠 Building [Applied AI/ML Implementations](https://github.com/AtinChing/Applied-AI-ML-Implementations) to master all of AI  
   → Regression, classification, embeddings, LLMs, agents, RAG, fine-tuning, computer vision... just everything AI  
 - 📊 Semantic search, vector databases (Pinecone, Chroma)  
 - 🗣️ Prompt engineering + LoRA / PEFT fine-tuning  
