@@ -1,62 +1,39 @@
 <h1 align="center">Hey, I'm Atin 👋</h1>
 <p align="center">
-  🧠 AI/ML Engineer & 🧰 Software Engineer <br />
-  🇶🇦 Raised in Qatar • 🎓 CS & Stats & Tech Management @ UC Davis • 🌱 Relentlessly building
+  AI/ML research and software engineering. Raised in Qatar, building out of Davis, CA.<br />
+  CS + Statistics (ML track) @ UC Davis · founding engineer @ Data Pigeon · research @ DARE Lab
 </p>
 
 ---
 
-### 🚀 What I’m Working On
+### What I'm building
 
-- **NovaNotes** – CS A-level revision platform, with thousands of users
-- **Data Pigeon**: Building AI infrastructure @ a startup founded by me and some friends
-- **Alive** – AI-powered meditation app focused on intentional breathing & emotional clarity
-- **Posturiser** – A real time posture detection & correction tool that leverages CV
-- **RZT** – coming soon...
-<!-- - 🏀 **Sports Analytics CV** – Tracks players across clips to map performance across plays  -->
+- **Data Pigeon**: Co-founder and founding engineer at an early-stage EV charging startup. I own a chunk of the AI and backend systems.
+- **DARE Lab @ UC Davis** (PI: Prof. Junshan Zhang): ML research toward a top-venue publication. Currently extending a residual attention mechanism (AttnRes) to vision-language models, reproduced the original results and seeing consistent gains over baseline.
+- **Rizitanz**: A fully autonomous content pipeline. It scrapes source stories, rewrites them into narration scripts, runs a multi-TTS backend, and uses Whisper for word-level subtitle alignment. MoviePy handles rendering. Scheduled uploads to YouTube, TikTok, and Instagram are idempotent with retry and backoff, so a failed run recovers instead of double-posting, and results land in a SQLite registry that tunes later runs. 1,000,000+ views, 10,000+ watch hours, 1,300+ followers, no human in the loop.
+- **Hugging Face Context Course**: Co-author on the official course (41,000+ enrolled learners), plus merged PRs to `huggingface/course` and a public dataset with 10,000+ downloads.
 
----
+### Research interests
 
-### 🌱 I’m Currently Learning
+Attention mechanisms and VLM architectures, embodied / aerial autonomy and world models, knowledge distillation, and TTS. Targeting a top-venue paper (ICLR / NeurIPS).
 
-- Building [Applied AI/ML Implementations](https://github.com/AtinChing/Applied-AI-ML-Implementations) to master all of AI  
-  → Regression, classification, embeddings, LLMs, agents, RAG, fine-tuning, computer vision... just everything AI  
-- Specifically, how to speed up inference in modern voice cloning technologies (like ChatterboxTTS) to hit inference speeds closer to the best modern TTS models (like Kokoro).
+### Selected work
 
----
+- **CalHacks AI Track Finalist**: AthenAI, an AI tutor that generates animated diagrams and real-time feedback.
+- **1st place** at the Snowflake Startup Sprint, Google Maps Platform Hackathon, and AgentHacks SF.
+- **NovaNotes**: CS A-level revision platform, 3,500+ users.
+- **Browser-based FPV drone simulator**: real-time flight and control, runs entirely in the browser.
+- **Minecraft plugins**: 16,500+ combined downloads back when I was getting started.
 
-### 🛠️ Tech Stack
+### Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,bootstrap,discord,react,fastapi,express,django,selenium,unity,mongodb,mysql,postgres,git,github,gitlab,linux,vscode,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,fastapi,pytorch,tensorflow,opencv,postgres,mysql,mongodb,git,linux" />
 </p>
 
----
-
-### 🏆 Highlights
-
-- **Most Creative Hack**, AgentHacks SF – agent-based urban planner w/ traffic simulation + AI  
-- **CalHacks AI Finalist** – Athena: AI tutor that creates animated diagrams + feedback in real-time
-- **Winner** at Google Maps Platform Hackathon (Community Favorite)
-- 3k+ downloads on Hugging Face for a [Reddit Niche Classifier dataset](http://huggingface.co/datasets/atin5551/reddit-story-niche-classification-dataset/) I carefully curated and labelled across a couple days.
-- Built Minecraft server plugins with 16.5K+ combined downloads (spanning economy, moderation, and gameplay enhancements)
-- **Provost’s Award** recipient (a merit-based scholarship by UC Davis)  
-
----
-
-### 🤝 I’m Looking to Collaborate On
-
-- 🧍‍♂️ **Posturiser** (Open-sourcing this AI-based ergonomic tool)
-- 🧘 **Alive** (Would love to have some hands on deck)
-
----
-
-### 📬 Connect with Me
+### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/atin-kumar-singh-125831216/)
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&style=flat)](https://github.com/AtinChing)  
-📫 atin5551@gmail.com • Based in Davis, CA, USA
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github&style=flat)](https://github.com/AtinChing)
 
----
-
-<sub>README crafted with black coffee, late nights, and frustration ☕</sub>
+atin5551@gmail.com · [atin.engineer](https://atin.engineer) · Davis, CA
