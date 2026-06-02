@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Atin 👋</h1>
 <p align="center">
   AI/ML research and software engineering. Raised in Qatar, building out of Davis, CA.<br />
-  CS + Statistics (ML track) @ UC Davis · founding engineer @ Data Pigeon · research @ DARE Lab
+  CS + Statistics (ML track) @ UC Davis · founding engineer @ Data Pigeon · research @ DARE Lab · contributor @ Hugging Face
 </p>
 
 ---
