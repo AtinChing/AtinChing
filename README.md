@@ -9,27 +9,21 @@
 ### What I'm building
 
 - **Data Pigeon**: Founding engineer at an early-stage EV charging startup. I own a chunk of the AI and backend systems.
-- **DARE Lab @ UC Davis** (PI: Prof. Junshan Zhang): ML research toward a top-venue publication. Currently extending a residual attention mechanism (AttnRes) to vision-language models, reproduced the original results and seeing consistent gains over baseline.
+- **DARE Lab @ UC Davis** (PI: Prof. Junshan Zhang): ML research. Currently extending a residual attention mechanism (AttnRes) to vision-language models, reproduced the original results and seeing consistent gains over baseline.
 - **Rizitanz**: A fully autonomous content pipeline. It scrapes source stories, rewrites them into narration scripts, runs a multi-TTS backend, and uses Whisper for word-level subtitle alignment. MoviePy handles rendering. Scheduled uploads to YouTube, TikTok, and Instagram are idempotent with retry and backoff, so a failed run recovers instead of double-posting, and results land in a SQLite registry that tunes later runs. 1,000,000+ views, 10,000+ watch hours, 1,300+ followers, no human in the loop.
 - **Hugging Face Context Course**: Co-author on the official course (41,000+ enrolled learners), plus merged PRs to `huggingface/course` and a public dataset with 10,000+ downloads.
 
 ### Research interests
 
-Attention mechanisms and VLM architectures, embodied / aerial autonomy and world models, knowledge distillation, and TTS. Targeting a top-venue paper (ICLR / NeurIPS).
+Attention mechanisms and VLM architectures, embodied / aerial autonomy and world models, knowledge distillation, and TTS.
 
 ### Selected work
 
-- **CalHacks AI Track Finalist**: AthenAI, an AI tutor that generates animated diagrams and real-time feedback.
+- **CalHacks AI Finalist**: AthenAI, an AI tutor that generates animated diagrams and real-time feedback.
 - **1st place** at the Snowflake Startup Sprint, Google Maps Platform Hackathon, and AgentHacks SF.
 - **NovaNotes**: CS A-level revision platform, 3,500+ users.
 - **Browser-based FPV drone simulator**: real-time flight and control, runs entirely in the browser.
 - **Minecraft plugins**: 16,500+ combined downloads back when I was getting started.
-
-### Tech
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,fastapi,pytorch,tensorflow,opencv,postgres,mysql,mongodb,git,linux" />
-</p>
 
 ### Connect
 
