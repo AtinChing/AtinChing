@@ -10,7 +10,7 @@
 
 - **Data Pigeon**: Founding engineer at an early-stage EV charging startup. I own a chunk of the AI and backend systems.
 - **DARE Lab @ UC Davis** (PI: Prof. Junshan Zhang): ML research. Currently extending a residual attention mechanism (AttnRes) to vision-language models, reproduced the original results and seeing consistent gains over baseline.
-- **Rizitanz**: A fully autonomous content pipeline. It scrapes source stories, rewrites them into narration scripts, runs a multi-TTS backend, and uses Whisper for word-level subtitle alignment. MoviePy handles rendering. Scheduled uploads to YouTube, TikTok, and Instagram are idempotent with retry and backoff, so a failed run recovers instead of double-posting, and results land in a SQLite registry that tunes later runs. 1,000,000+ views, 10,000+ watch hours, 1,300+ followers, no human in the loop.
+- **Rizitanz**: A fully autonomous content pipeline. It scrapes source stories, rewrites them into narration scripts, runs a multi-TTS backend, and uses Whisper for word-level subtitle alignment. MoviePy handles rendering. Scheduled uploads to YouTube, TikTok, and Instagram are idempotent with retry and backoff, so a failed run recovers instead of double-posting, and results land in a SQLite registry that tunes later runs. 1,000,000+ views, 10,000+ watch hours, 1,300+ followers.
 - **Hugging Face Context Course**: Co-author on the official course (41,500+ enrolled learners).
 
 ### Research interests
