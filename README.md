@@ -19,7 +19,7 @@ Attention mechanisms and VLM architectures, embodied / aerial autonomy and world
 
 ### Selected work
 
-- **CalHacks AI Finalist**: AthenAI, an AI tutor that generates animated diagrams and real-time feedback.
+- **CalHacks AI Finalist**: Athena AI, an AI tutor that generates animated diagrams and real-time feedback.
 - **1st place** at the Snowflake Startup Sprint, Google Maps Platform Hackathon, and AgentHacks SF.
 - **NovaNotes**: CS A-level revision platform, 3,500+ users.
 - **Browser-based FPV drone simulator**: real-time flight and control, runs entirely in the browser.
