@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Atin 👋</h1>
 <p align="center">
   AI/ML research and software engineering. Raised in Qatar, building out of Davis, CA.<br />
-  CS + Statistics (ML track) @ UC Davis · founding engineer @ Data Pigeon · research @ DARE Lab · contributor @ Hugging Face
+  CS + Statistics (ML track) @ UC Davis · founding engineer @ Data Pigeon · research @ DARE Lab · contributor/author @ Hugging Face
 </p>
 
 ---
@@ -22,7 +22,6 @@ Attention mechanisms and VLM architectures, embodied / aerial autonomy and world
 - **CalHacks AI Finalist**: Athena AI, an AI tutor that generates animated diagrams and real-time feedback.
 - **1st place** at the Snowflake Startup Sprint, Google Maps Platform Hackathon, and AgentHacks SF.
 - **NovaNotes**: CS A-level revision platform, 3,500+ users.
-- **Browser-based FPV drone simulator**: real-time flight and control, runs entirely in the browser.
 - **Minecraft plugins**: 16,500+ combined downloads back when I was getting started.
 
 ### Connect
